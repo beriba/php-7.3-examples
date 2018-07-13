@@ -1,0 +1,18 @@
+{
+    "name": "beriba/php-7.3-examples",
+    "type": "library",
+    "require": {
+        "php": "7.3.0-dev"
+    },
+    "license": "GNU GPL v3.0",
+    "authors": [
+        {
+            "name": "Szymon Sadło",
+            "email": "szymon.sadlo@gmail.com"
+        }
+    ],
+    "config": {
+        "disable-tls": true,
+        "secure-http": false
+    }
+}
